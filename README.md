@@ -2,6 +2,7 @@
 
 <!--
 **DinnerLee/DinnerLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
 ## Work experience 🤹‍♀️
 - (19.09.06) 2019 국제 대학생 창작 자동차 경진대회 '자율주행 부문' 대상(국토교통부 장관상)
