@@ -1,7 +1,5 @@
 # JeonHyeok Lee
 
-<!--
-**DinnerLee/DinnerLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
 
 ## Work experience 🤹‍♀️
@@ -11,6 +9,10 @@
 ### Interest 👀
 - Object Detection & Tracking for Autonomous Vehicle
 - Human Detection & Tracking for Mobile Robot
+
+<!--
+**DinnerLee/DinnerLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
